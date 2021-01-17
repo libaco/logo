@@ -1,8 +1,8 @@
-# Logo of [libaco](https://libaco.org/)
+# Logo of libaco
 
 ## License and Copyright
 
-Donated by: Peter Bech @Peteck <pb@bechsoftware.com>
+Donated by: [Peter Bech](https://github.com/Peteck) @Peteck <pb@bechsoftware.com>
 
 Source: https://github.com/libaco/logo
 
